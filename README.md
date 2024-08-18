@@ -113,5 +113,5 @@ O script executa a exclusão dos seguintes recursos:
 Execute o script com o seguinte comando:
 
 ```bash
-python3 script_name.py seu-user-cli-aws # usuario para ser ignorado para nao deletar ele durante as execucoes
+python3 delete.py seu-user-cli-aws # usuario para ser ignorado para nao deletar ele durante as execucoes
 
